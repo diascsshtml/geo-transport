@@ -1,0 +1,2 @@
+https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Ade253873b7bd6946085e67249f783613c4fe03da1a93be72771118f6d4268747&amp;
+                width=1&amp;height=500&amp;lang=ru_RU&amp;scroll=true"></script>
